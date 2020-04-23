@@ -8,6 +8,6 @@
 when flag clicked
 delete all of [exercise v]
 delete all of [new session v]
-add (pressups) to [exercise v]
-add (situps) to [exercise v]
+add [pressups] to [exercise v]
+add [situps] to [exercise v]
 ```
